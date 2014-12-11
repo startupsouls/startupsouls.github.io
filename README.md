@@ -4,4 +4,4 @@
 
 | Country  | City | Managed By(s) | URL |
 | :------- | :---- | :---- | :---- | :--- |
-| India | Hyderabad | [Ray Ch](http://iraycd.com) | http://hyderabad.startupsouls.com |
+| India | Hyderabad | [Ray Ch](http://iraycd.com) | http://startupsouls.com/hyderabad/ |
